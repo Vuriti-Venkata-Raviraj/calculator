@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/server.dir/server.c.o CMakeFiles/server.dir/addition.c.o CMakeFiles/server.dir/subtraction.c.o CMakeFiles/server.dir/multiplication.c.o CMakeFiles/server.dir/division.c.o -o server 

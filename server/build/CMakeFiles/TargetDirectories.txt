@@ -1,0 +1,3 @@
+/home/ravi/Desktop/calculator/server/build/CMakeFiles/server.dir
+/home/ravi/Desktop/calculator/server/build/CMakeFiles/edit_cache.dir
+/home/ravi/Desktop/calculator/server/build/CMakeFiles/rebuild_cache.dir

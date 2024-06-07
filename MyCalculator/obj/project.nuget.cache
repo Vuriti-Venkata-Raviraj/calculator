@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "TXbSyweqqWK+XC0SidjBekoDOsInQanFZbDiqUJ+rQE1eT871WEeIZIlon1nkLE/v3DZur8KaAyb0+UMqmP1Yw==",
+  "success": false,
+  "projectFilePath": "/home/ravi/Desktop/calculator/MyCalculator/MyCalculator.csproj",
+  "expectedPackageFiles": [
+    "/home/ravi/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/ravi/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/ravi/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/ravi/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/ravi/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/ravi/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/ravi/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512",
+    "/home/ravi/.nuget/packages/microsoft.netcore.app.ref/8.0.5/microsoft.netcore.app.ref.8.0.5.nupkg.sha512",
+    "/home/ravi/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.5/microsoft.aspnetcore.app.ref.8.0.5.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.ubuntu.24.04-x64. No packages exist with this id in source(s): nuget.org",
+      "libraryId": "Microsoft.NETCore.App.Host.ubuntu.24.04-x64",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
